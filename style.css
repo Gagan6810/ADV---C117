@@ -1,0 +1,33 @@
+h1{
+    font-family: 'Pacifico', cursive;
+}
+
+#background{
+    background-color:black;
+}
+
+p{
+    font-size:30px;
+    font-family: 'Dancing Script', cursive;
+}
+
+#score{
+    float:left;
+    font-size:35px;
+    margin-top:150px;
+    font-family: 'Dancing Script', cursive;
+    margin-left:20px;
+}
+
+#timer{
+    float:right;
+    font-size:35px;
+    margin-top:150px;
+    font-family: 'Dancing Script', cursive;
+    margin-right:20px;
+}
+
+#modal_button{
+    float:right;
+    margin-right:20px;
+}
